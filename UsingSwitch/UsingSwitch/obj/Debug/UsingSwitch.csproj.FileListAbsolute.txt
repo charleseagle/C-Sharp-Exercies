@@ -1,0 +1,6 @@
+E:\C#Practice\UsingSwitch\UsingSwitch\bin\Debug\UsingSwitch.exe.config
+E:\C#Practice\UsingSwitch\UsingSwitch\obj\Debug\UsingSwitch.csprojResolveAssemblyReference.cache
+E:\C#Practice\UsingSwitch\UsingSwitch\bin\Debug\UsingSwitch.exe
+E:\C#Practice\UsingSwitch\UsingSwitch\bin\Debug\UsingSwitch.pdb
+E:\C#Practice\UsingSwitch\UsingSwitch\obj\Debug\UsingSwitch.exe
+E:\C#Practice\UsingSwitch\UsingSwitch\obj\Debug\UsingSwitch.pdb

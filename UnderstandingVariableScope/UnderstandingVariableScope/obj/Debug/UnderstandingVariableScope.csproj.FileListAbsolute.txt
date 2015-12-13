@@ -1,0 +1,6 @@
+E:\C#Practice\UnderstandingVariableScope\UnderstandingVariableScope\bin\Debug\UnderstandingVariableScope.exe.config
+E:\C#Practice\UnderstandingVariableScope\UnderstandingVariableScope\bin\Debug\UnderstandingVariableScope.exe
+E:\C#Practice\UnderstandingVariableScope\UnderstandingVariableScope\bin\Debug\UnderstandingVariableScope.pdb
+E:\C#Practice\UnderstandingVariableScope\UnderstandingVariableScope\obj\Debug\UnderstandingVariableScope.csprojResolveAssemblyReference.cache
+E:\C#Practice\UnderstandingVariableScope\UnderstandingVariableScope\obj\Debug\UnderstandingVariableScope.exe
+E:\C#Practice\UnderstandingVariableScope\UnderstandingVariableScope\obj\Debug\UnderstandingVariableScope.pdb

@@ -1,0 +1,7 @@
+E:\C#Practice\ReadTextFileWhile\ReadTextFileWhile\bin\Release\Values1.txt
+E:\C#Practice\ReadTextFileWhile\ReadTextFileWhile\bin\Release\ReadTextFileWhile.exe.config
+E:\C#Practice\ReadTextFileWhile\ReadTextFileWhile\bin\Release\ReadTextFileWhile.exe
+E:\C#Practice\ReadTextFileWhile\ReadTextFileWhile\bin\Release\ReadTextFileWhile.pdb
+E:\C#Practice\ReadTextFileWhile\ReadTextFileWhile\obj\Release\ReadTextFileWhile.exe
+E:\C#Practice\ReadTextFileWhile\ReadTextFileWhile\obj\Release\ReadTextFileWhile.pdb
+E:\C#Practice\ReadTextFileWhile\ReadTextFileWhile\obj\Release\ReadTextFileWhile.csprojResolveAssemblyReference.cache

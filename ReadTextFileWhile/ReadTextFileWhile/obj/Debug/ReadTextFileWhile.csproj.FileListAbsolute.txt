@@ -1,0 +1,6 @@
+E:\C#Practice\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe.config
+E:\C#Practice\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe
+E:\C#Practice\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.pdb
+E:\C#Practice\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
+E:\C#Practice\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb
+E:\C#Practice\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\Values1.txt

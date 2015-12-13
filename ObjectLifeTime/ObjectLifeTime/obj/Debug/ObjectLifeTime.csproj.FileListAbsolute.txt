@@ -1,0 +1,2 @@
+E:\C#Practice\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe.config
+E:\C#Practice\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.csprojResolveAssemblyReference.cache

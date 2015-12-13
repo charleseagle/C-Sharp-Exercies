@@ -1,0 +1,6 @@
+E:\C#Practice\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.exe.config
+E:\C#Practice\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.csprojResolveAssemblyReference.cache
+E:\C#Practice\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.exe
+E:\C#Practice\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.pdb
+E:\C#Practice\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.exe
+E:\C#Practice\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.pdb

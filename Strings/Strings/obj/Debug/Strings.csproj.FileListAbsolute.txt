@@ -1,0 +1,5 @@
+E:\C#Practice\Strings\Strings\bin\Debug\Strings.exe.config
+E:\C#Practice\Strings\Strings\bin\Debug\Strings.exe
+E:\C#Practice\Strings\Strings\bin\Debug\Strings.pdb
+E:\C#Practice\Strings\Strings\obj\Debug\Strings.exe
+E:\C#Practice\Strings\Strings\obj\Debug\Strings.pdb

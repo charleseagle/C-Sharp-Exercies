@@ -1,0 +1,5 @@
+E:\C#Practice\forIterations\forIterations\bin\Debug\forIterations.exe.config
+E:\C#Practice\forIterations\forIterations\bin\Debug\forIterations.exe
+E:\C#Practice\forIterations\forIterations\bin\Debug\forIterations.pdb
+E:\C#Practice\forIterations\forIterations\obj\Debug\forIterations.exe
+E:\C#Practice\forIterations\forIterations\obj\Debug\forIterations.pdb

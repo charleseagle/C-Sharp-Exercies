@@ -1,0 +1,6 @@
+E:\C#Practice\UnderstandingEmumerations\UnderstandingEmumerations\bin\Debug\UnderstandingEmumerations.exe.config
+E:\C#Practice\UnderstandingEmumerations\UnderstandingEmumerations\bin\Debug\UnderstandingEmumerations.exe
+E:\C#Practice\UnderstandingEmumerations\UnderstandingEmumerations\bin\Debug\UnderstandingEmumerations.pdb
+E:\C#Practice\UnderstandingEmumerations\UnderstandingEmumerations\obj\Debug\UnderstandingEmumerations.exe
+E:\C#Practice\UnderstandingEmumerations\UnderstandingEmumerations\obj\Debug\UnderstandingEmumerations.pdb
+E:\C#Practice\UnderstandingEmumerations\UnderstandingEmumerations\obj\Debug\UnderstandingEmumerations.csprojResolveAssemblyReference.cache
