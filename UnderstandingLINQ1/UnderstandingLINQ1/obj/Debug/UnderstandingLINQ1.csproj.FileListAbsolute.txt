@@ -1,0 +1,5 @@
+E:\C#Practice\UnderstandingLINQ1\UnderstandingLINQ1\bin\Debug\UnderstandingLINQ1.exe.config
+E:\C#Practice\UnderstandingLINQ1\UnderstandingLINQ1\bin\Debug\UnderstandingLINQ1.exe
+E:\C#Practice\UnderstandingLINQ1\UnderstandingLINQ1\bin\Debug\UnderstandingLINQ1.pdb
+E:\C#Practice\UnderstandingLINQ1\UnderstandingLINQ1\obj\Debug\UnderstandingLINQ1.exe
+E:\C#Practice\UnderstandingLINQ1\UnderstandingLINQ1\obj\Debug\UnderstandingLINQ1.pdb

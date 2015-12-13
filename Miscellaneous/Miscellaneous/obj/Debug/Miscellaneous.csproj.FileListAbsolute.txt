@@ -1,0 +1,6 @@
+E:\C#Practice\Miscellaneous\Miscellaneous\bin\Debug\Miscellaneous.exe.config
+E:\C#Practice\Miscellaneous\Miscellaneous\bin\Debug\Miscellaneous.exe
+E:\C#Practice\Miscellaneous\Miscellaneous\bin\Debug\Miscellaneous.pdb
+E:\C#Practice\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.csprojResolveAssemblyReference.cache
+E:\C#Practice\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.exe
+E:\C#Practice\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.pdb
